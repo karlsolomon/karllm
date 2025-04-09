@@ -1,0 +1,6 @@
+[submodule "karllm-client"]
+	path = karllm-client
+	url = git@github.com:karlsolomon/karllm-client.git
+[submodule "karllm-server"]
+	path = karllm-server
+	url = git@github.com:karlsolomon/karllm-server.git
