@@ -4,3 +4,6 @@
 [submodule "karllm-server"]
 	path = karllm-server
 	url = git@github.com:karlsolomon/karllm-server.git
+[submodule "karllm-setup"]
+	path = karllm-setup
+	url = git@github.com:karlsolomon/karllm-setup.git
